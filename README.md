@@ -1,0 +1,8 @@
+"# ETL Simples em Python" 
+"" 
+"Pipeline ETL (Extract, Transform, Load) para demonstração de conceitos." 
+"" 
+"## Funcionalidades" 
+"- Extração de dados CSV" 
+"- Transformação e limpeza" 
+"- Geração de relatórios" 
